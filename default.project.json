@@ -5,42 +5,42 @@
     "Chat": {
       "$className": "Chat",
       "$ignoreUnknownInstances": true,
-      "$path": "src/Chat"
+      "$path": "Chat"
     },
     "Lighting": {
       "$className": "Lighting",
       "$ignoreUnknownInstances": true,
-      "$path": "src/Lighting"
+      "$path": "Lighting"
     },
     "ReplicatedFirst": {
       "$className": "ReplicatedFirst",
       "$ignoreUnknownInstances": true,
-      "$path": "src/ReplicatedFirst"
+      "$path": "ReplicatedFirst"
     },
     "ReplicatedStorage": {
       "$className": "ReplicatedStorage",
       "$ignoreUnknownInstances": true,
-      "$path": "src/ReplicatedStorage"
+      "$path": "ReplicatedStorage"
     },
     "ServerScriptService": {
       "$className": "ServerScriptService",
       "$ignoreUnknownInstances": true,
-      "$path": "src/ServerScriptService"
+      "$path": "ServerScriptService"
     },
     "ServerStorage": {
       "$className": "ServerStorage",
       "$ignoreUnknownInstances": true,
-      "$path": "src/ServerStorage"
+      "$path": "ServerStorage"
     },
     "StarterGui": {
       "$className": "StarterGui",
       "$ignoreUnknownInstances": true,
-      "$path": "src/StarterGui"
+      "$path": "StarterGui"
     },
     "StarterPack": {
       "$className": "StarterPack",
       "$ignoreUnknownInstances": true,
-      "$path": "src/StarterPack"
+      "$path": "StarterPack"
     }
   }
 }
