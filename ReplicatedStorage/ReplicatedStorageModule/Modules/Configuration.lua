@@ -28,4 +28,5 @@ module.TeamColors = {
 	Striders = "Sea green"
 }
 
+
 return module
