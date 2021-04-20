@@ -792,3 +792,4 @@ OnMessageDoneFiltering.OnClientEvent:connect(function(messageData, channelName)
 
 	this:OnPlayerChatMessage(sender, messageData.Message, nil)
 end)
+--Test
