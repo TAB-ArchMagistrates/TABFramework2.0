@@ -4,9 +4,9 @@
 
 -- Additional Credits:
 
+--TODO: Remember to put "Client()" at the end (so that it runs client)
 
--- Notes:
---Remember to put "Client()" at the end.
+
 ---
 
 --File Directories
@@ -20,3 +20,7 @@ local Client = require(Modules:WaitForChild("Client"))
 --Server Resources
 local MarketPlaceService = game:GetService("MarketplaceService")
 ---
+
+game.Players.PlayerAdded:Connect(function(Player)
+    
+end)
